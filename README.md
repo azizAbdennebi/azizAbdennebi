@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📫 How to reach me **zizouabd7@gmail.com**
+- 📫 How to reach me **aziz.abdennebi@ensit.u-tunis.tn** or **zizouabd7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
