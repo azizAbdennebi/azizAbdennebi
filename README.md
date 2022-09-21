@@ -17,6 +17,7 @@
 <a href="https://www.facebook.com/zizouabd75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zizouabd75/" height="30" width="40" /></a>
 <a href="https://instagram.com/aziz_.ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aziz_.ab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azizabdennebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azizabdennebi" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/aziz-abdennebi" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" alt="azizabdennebi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
