@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **an NLP module using machine learning in Python**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Deep learning and machine learning operations with (AWS)**
 
-- 📫 How to reach me **aziz.abdennebi@ensit.u-tunis.tn** or **zizouabd7@gmail.com**
+- 📫 How to reach me **aziz.abdennebi@ensit.u-tunis.tn** or **azizabdennebi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
