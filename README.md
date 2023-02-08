@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aziz-abdennebi-458720149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aziz-abdennebi-458720149/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aziz-abdennebi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aziz-abdennebi-458720149/" height="30" width="40" /></a>
 <a href="https://www.credly.com/users/aziz-abdennebi" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" alt="azizabdennebi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azizabdennebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azizabdennebi" height="30" width="40" /></a>
 <a href="https://www.codingame.com/profile/8ad9fa69696b50494931ede162ab59d06800025" target="blank"><img align="center" src="https://static.codingame.com/assets/favicon_32_32.0042ee23.png" alt="azizabdennebi" height="30" width="40" /></a>
